@@ -1,0 +1,9 @@
+/Users/mac/Projects/DMysql/DMysql/obj/x86/Debug/DMysql.csprojResolveAssemblyReference.cache
+/Users/mac/Projects/DMysql/DMysql/obj/x86/Debug/DMysql.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/DMysql/DMysql/bin/Debug/DMysql.exe
+/Users/mac/Projects/DMysql/DMysql/bin/Debug/DMysql.pdb
+/Users/mac/Projects/DMysql/DMysql/bin/Debug/MySql.Data.dll
+/Users/mac/Projects/DMysql/DMysql/bin/Debug/Google.Protobuf.dll
+/Users/mac/Projects/DMysql/DMysql/bin/Debug/MySql.Data.xml
+/Users/mac/Projects/DMysql/DMysql/obj/x86/Debug/DMysql.exe
+/Users/mac/Projects/DMysql/DMysql/obj/x86/Debug/DMysql.pdb

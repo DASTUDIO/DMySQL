@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{07E019B5-57B5-426E-A576-7614F7F8CC23}|Default">
+  <MonoDevelop.Ide.ItemProperties.DMysql PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DMysql/ORM/Internal/DMSQLHelper.cs">
+    <Files>
+      <File FileName="DMysql/Program.cs" Line="11" Column="57" />
+      <File FileName="DMysql/ORM/Internal/DMCenterController.cs" Line="55" Column="49" />
+      <File FileName="DMysql/ORM/DMySQL.cs" Line="21" Column="6" />
+      <File FileName="DMysql/ORM/Internal/DMSQLHelper.cs" Line="595" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DMysql" expanded="True">
+            <Node name="DMysql" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="ORM" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Internal" expanded="True">
+                  <Node name="DMSQLHelper.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
